@@ -1,8 +1,8 @@
 #ifndef __SORTED_LIST_H__
 #define __SORTED_LIST_H__
 
-#include <stddef.h> /*size_t       */
-#include "dll.h"   /*Internal use */
+#include <stddef.h> /*size_t, NULL s*/
+#include "dll.h"    /*Internal use */
 
 typedef struct sorted_list sorted_list_t;
 
